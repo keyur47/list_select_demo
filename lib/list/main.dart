@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:list_select_demo/list.dart';
+import 'package:list_select_demo/list/list.dart';
 
 void main() {
   runApp(const MyApp());
